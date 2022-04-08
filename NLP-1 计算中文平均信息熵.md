@@ -118,7 +118,7 @@ for line in article:
 
 实验数据如下：
 
-![截屏2022-04-08 下午2.07.19](/Users/leanderluo/Desktop/研一/NLP/nlp1BUAA/截屏2022-04-08 下午2.07.19.png)
+![截屏2022-04-08 下午2.07.19 下午3.01.11](/Users/leanderluo/Desktop/研一/NLP/nlp1BUAA/截屏2022-04-08 下午2.07.19 下午3.01.11.png)
 
 具体模型代码见附录。
 
@@ -245,3 +245,7 @@ def trigramC(article,count):
     print("Chinese information entropy of ternary model:", round(sum(entropy), 5), "bit/word")
 ```
 
+## 参考文献
+
+1. https://blog.csdn.net/weixin_50891266/article/details/115723958?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default&utm_relevant_index=1
+2. https://blog.csdn.net/qq_40412713/article/details/115742092?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2.pc_relevant_default&utm_relevant_index=5
