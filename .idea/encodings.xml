@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/inf.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/三十三剑客图.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/书剑恩仇录.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/侠客行.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/倚天屠龙记.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/天龙八部.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/射雕英雄传.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/白马啸西风.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/碧血剑.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/神雕侠侣.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/笑傲江湖.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/越女剑.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/连城诀.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/雪山飞狐.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/飞狐外传.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/鸳鸯刀.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/data/鹿鼎记.txt" charset="GB18030" />
+  </component>
+</project>
